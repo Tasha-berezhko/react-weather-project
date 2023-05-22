@@ -67,7 +67,7 @@ export default function Weather() {
       </div>
       <small>
         <a
-          href="https://github.com/Tasha-berezhko/Vanilla-weather"
+          href="https://github.com/Tasha-berezhko/react-weather-project"
           target="blank"
         >
           Open-source code
